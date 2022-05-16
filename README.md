@@ -9,6 +9,8 @@ Tested on Fitgirl version (Call.of.Duty.Infinite.Warfare-RELOADED)
 
 
 Usage:
+
+
   -e: It dumps localize.json from memory
   
   
