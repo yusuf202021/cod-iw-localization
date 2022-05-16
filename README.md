@@ -14,4 +14,4 @@ Usage:
         -e: It dumps localize.json from memory
   
   
-      -i: It loads localize.json to memory
+        -i: It loads localize.json to memory
