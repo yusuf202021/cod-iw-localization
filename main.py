@@ -41,7 +41,7 @@ def _import():
         table_offsets[id] = len(to_write)
         to_write += string.encode() + b"\x00"
     global start
-    new_table = pm.allocate(len(to_write))
+    new_table = pm.allocate(len(to_write) * 2)
     pm.write_bytes(new_table, to_write, len(to_write))
     for i in range(count):
         try:
