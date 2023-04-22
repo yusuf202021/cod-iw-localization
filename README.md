@@ -2,7 +2,7 @@
 A tool for unofficial localization project for Call of Duty - Infinite Warfare
 
 
-Current localize.json doesn't contain all strings. You should dump it yourself.
+localize.json in this repo doesn't contain all strings. You must dump it yourself.
 
 
 Tested on Fitgirl version (Call.of.Duty.Infinite.Warfare-RELOADED)
